@@ -37,12 +37,12 @@ This project presents a complete exploratory data analysis (EDA) of the Supersto
 ---
 ## 🚀 Recommendations
 
-1 Promote high-performing regions like the West to maximize revenue
-2 Focus on Technology category, offering targeted promotions to drive higher-value orders
-3 Optimize discount strategy to avoid heavy discounts that reduce profit
-4 Implement seasonal marketing campaigns during November–December
-5 Improve inventory planning based on monthly demand patterns
-6 Use bundle offers for categories with lower profit margins
-7 Target customer segments with personalized offers to increase retention
+- Promote high-performing regions like the West to maximize revenue
+- Focus on Technology category, offering targeted promotions to drive higher-value orders
+- Optimize discount strategy to avoid heavy discounts that reduce profit
+- Implement seasonal marketing campaigns during November–December
+- Improve inventory planning based on monthly demand patterns
+- Use bundle offers for categories with lower profit margins
+- Target customer segments with personalized offers to increase retention
 
 ---
