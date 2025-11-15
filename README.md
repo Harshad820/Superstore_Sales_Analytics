@@ -60,12 +60,13 @@ This project presents a complete exploratory data analysis (EDA) of the Supersto
 #### Here are some key visualizations from the analysis:
 
 ### Sales Contribution by Product Category
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](https://github.com/Harshad820/Superstore_Sales_Analytics/blob/main/images/1.png)
 ### Customer Segment Contribution
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](https://github.com/Harshad820/Superstore_Sales_Analytics/blob/main/images/2.png)
 ### Total Sales by Region
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](https://github.com/Harshad820/Superstore_Sales_Analytics/blob/main/images/3.png)
 ### Monthly Sales Trend (All Months Displayed)
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](https://github.com/Harshad820/Superstore_Sales_Analytics/blob/main/images/4.png)
 ### Impact of Discounts on Sales
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](https://github.com/Harshad820/Superstore_Sales_Analytics/blob/main/images/5.png)
+
