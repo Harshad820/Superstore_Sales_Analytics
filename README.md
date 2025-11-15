@@ -2,7 +2,7 @@
 A data-driven analysis of Superstore sales performance, focusing on categories, regions, discounts, and trends using Python and Jupyter Notebook.
 
 
-![superstore data analysis ](![image.png](attachment:5c0e1a60-60fa-4bb4-89a3-7951b5a992ee.png))
+![superstore data analysis ](https://watermark.lovepik.com/photo/40027/7318.jpg_wh1200.jpg)
 
 The analysis is presented in a Jupyter Notebook:  
 📂 `airbnb-impact-of-regulation.ipynb`
