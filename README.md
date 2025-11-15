@@ -46,3 +46,26 @@ This project presents a complete exploratory data analysis (EDA) of the Supersto
 - Target customer segments with personalized offers to increase retention
 
 ---
+
+## 📂 Project Structure
+```
+
+├── README.md                           # Documentation
+├── Sample - Superstore.csv             # Dataset
+└── Superstore Data Analysis.ipynb   # Main analysis notebook
+
+```
+## 📊 Results
+
+#### Here are some key visualizations from the analysis:
+
+### Sales Contribution by Product Category
+![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+### Customer Segment Contribution
+![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+### Total Sales by Region
+![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+### Monthly Sales Trend (All Months Displayed)
+![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+### Impact of Discounts on Sales
+![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
