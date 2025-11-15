@@ -2,7 +2,7 @@
 A data-driven analysis of Superstore sales performance, focusing on categories, regions, discounts, and trends using Python and Jupyter Notebook.
 
 
-![superstore data analysis ](https://hostelgeeks.com/wp-content/uploads/2020/12/best-airbnbs-in-paris-france.jpg)
+![superstore data analysis ](![image.png](attachment:5c0e1a60-60fa-4bb4-89a3-7951b5a992ee.png))
 
 The analysis is presented in a Jupyter Notebook:  
 📂 `airbnb-impact-of-regulation.ipynb`
